@@ -1,5 +1,5 @@
 export default function Home() {
   return (
-    <div className="">Hello Nextjs</div>
+    <div className="text-rose-500">Hello Nextjs</div>
   )
 }
